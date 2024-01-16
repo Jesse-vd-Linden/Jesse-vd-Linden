@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesse-vd-Linden
 - 👀 I’m interested in Robotics, AGI, and Data Science
-- 🌱 I’m currently learning about Robotics, Entrepreneurship, and Digital Marketing.
+- 🌱 I’m currently learning about Robotics, Entrepreneurship, VLAs, and Digital Marketing.
 - 💞️ I’m looking to collaborate on Open Source software in the theme of Robotics, or AGI.
 - 📫 How to reach me: https://www.linkedin.com/in/jesse-van-der-linden/
 
