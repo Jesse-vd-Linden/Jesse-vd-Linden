@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jesse-vd-Linden
-- 👀 I’m interested in Robotics, Computer Vision, Planning & Optimization Algorithms and Deep Learning
-- 🌱 I’m currently learning about Robotics, Agriculture and Drones
-- 💞️ I’m looking to collaborate on Anything
+- 👀 I’m interested in Robotics, AGI, and Data Science
+- 🌱 I’m currently learning about Robotics, Entrepreneurship, and Digital Marketing.
+- 💞️ I’m looking to collaborate on Open Source software in the theme of Robotics, or AGI.
 - 📫 How to reach me: https://www.linkedin.com/in/jesse-van-der-linden/
 
 <!---
